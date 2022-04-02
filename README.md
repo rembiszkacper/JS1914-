@@ -63,5 +63,5 @@ Knowledge tabs
 
 Kacper Rembisz - kacDeveloper@gmail.com
 
-Project Link: [https://github.com/rembiszkacper/js1914](https://github.com/rembiszkacper/js1914)
+Project Link: [PRIVATE] [https://github.com/rembiszkacper/js1914](https://github.com/rembiszkacper/js1914)
 
