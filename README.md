@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<img src="https://github.com/rembiszkacper/js1914/blob/master/assets/images/logo.png" width="250" height="300">
+<img src="https://github.com/rembiszkacper/JS1914-/blob/main/logo.png" width="250" height="300">
 <br />
 <br />
 
@@ -40,11 +40,11 @@ The project mainly focuses on communicating members of the JS1914 paramilitary g
 
 Login, Homepage, Main Menu
 <br />
-![Help, Feedback & About](https://github.com/rembiszkacper/js1914/blob/master/assets/images/githubimages1.png)
+![Main](https://github.com/rembiszkacper/JS1914-/blob/main/img1.png)
 
 Knowledge tabs
 <br />
-![Help, Feedback & About](https://github.com/rembiszkacper/js1914/blob/master/assets/images/githubimages2.png)
+![Knowledge](https://github.com/rembiszkacper/JS1914-/blob/main/img2.png)
 
 
 
